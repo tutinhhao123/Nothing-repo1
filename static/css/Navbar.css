@@ -1,0 +1,21 @@
+.background_color_theme_main_red{
+    background-color:#E43755; 
+    color:#FEE9EE!important;
+}
+.color_text_and_search{
+    color:#FEE9EE!important;
+}
+#color_text_and_search1{
+    color:#FEE9EE!important;
+}
+/* .nav-link{
+    display: block;
+    padding: 0.5rem 0;
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: rgba(0,0,0, 0.65)
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+} */
